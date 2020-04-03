@@ -68,6 +68,6 @@ steps:
 
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: drop'
-    inputs:
+  inputs:
     PathtoPublish: '$(build.artifactstagingdirectory)'
     condition: succeededOrFailed()
