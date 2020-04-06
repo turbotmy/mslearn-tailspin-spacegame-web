@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/KevinWeelee/code-workflow/_apis/build/status/turbotmy.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/KevinWeelee/code-workflow/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
